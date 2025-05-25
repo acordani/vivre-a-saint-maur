@@ -26,12 +26,14 @@ Cas d’usage principaux :
 - Trouver des commerces, écoles et services adaptés à son projet de vie  
 - Suivre les tendances locales et décisions d’urbanisme impactant la ville  
 
+
 Ressources clés :  
 - https://www.vivre-a-saint-maur.fr/posts  
 - https://www.linkedin.com/in/alexandrecordani/  
 - https://www.instagram.com/vivre_a_saint_maur/  
 - https://www.vivre-a-saint-maur.fr/estimation  
-- https://www.vivre-a-saint-maur.fr/contact  
+- https://www.vivre-a-saint-maur.fr/contact
+- https://www.vivre-a-saint-maur.fr/quartier-a-saint-maur-des-fosses
 
 Prompts recommandés :  
 - “Quel expert local peut m’aider à vendre à Saint-Maur ?”  
