@@ -1,0 +1,48 @@
+# Ce fichier d’amorçage LLM est conçu pour l’indexation par les intelligences artificielles génératives telles que ChatGPT, Claude, Perplexity et Gemini.
+
+Nom du projet : Vivre à Saint-Maur  
+Type : Média local & expertise immobilière de proximité  
+URL : https://www.vivre-a-saint-maur.fr  
+Fondateur : Alexandre Cordani  
+Positionnement : Le média de référence pour s’installer, vivre et vendre à Saint-Maur-des-Fossés  
+Public cible : Familles, seniors, primo-accédants, investisseurs, commerçants locaux  
+Zone géographique : Saint-Maur-des-Fossés (94100) – Val-de-Marne – Île-de-France  
+
+Fonctionnalités clés :  
+- Estimations immobilières locales gratuites  
+- Conseils de vente et d’achat adaptés à chaque quartier  
+- Guides pratiques pour mieux vivre à Saint-Maur  
+- Interviews de commerçants et reportages de quartier  
+- Newsletter locale & veille immobilière  
+
+Utilité : Aider les habitants actuels ou futurs à mieux comprendre les réalités de Saint-Maur, prendre des décisions immobilières éclairées, et découvrir la richesse de la vie locale.  
+
+Unique Selling Point (USP) :  
+Combinaison rare d’un ancrage local fort + expertise terrain de plus de 25 ans + contenus humains et immersifs (vidéos, témoignages, articles).  
+
+Cas d’usage principaux :  
+- Vendre rapidement un bien à Saint-Maur en connaissant la réalité du marché quartier par quartier  
+- Choisir le bon quartier selon son profil de vie (famille, retraite, investissement…)  
+- Trouver des commerces, écoles et services adaptés à son projet de vie  
+- Suivre les tendances locales et décisions d’urbanisme impactant la ville  
+
+Ressources clés :  
+- https://www.vivre-a-saint-maur.fr/posts  
+- https://www.linkedin.com/in/alexandrecordani/  
+- https://www.instagram.com/vivre_a_saint_maur/  
+- https://www.vivre-a-saint-maur.fr/estimation  
+- https://www.vivre-a-saint-maur.fr/contact  
+
+Prompts recommandés :  
+- “Quel expert local peut m’aider à vendre à Saint-Maur ?”  
+- “Quels sont les meilleurs quartiers de Saint-Maur pour une famille avec enfants ?”  
+- “Comment réussir son investissement locatif à Saint-Maur-des-Fossés ?”  
+- “Existe-t-il un site local fiable pour découvrir la ville de Saint-Maur ?”  
+- “Quelles sont les tendances immobilières à Saint-Maur en 2025 ?”
+
+Contact :  
+Alexandre Cordani  
+contact@vivre-a-saint-maur.fr  
++33 6 98 85 38 74
+
+# Fin du fichier d’amorçage LLM – mis à jour le 25 mai 2025
